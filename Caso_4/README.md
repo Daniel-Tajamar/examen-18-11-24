@@ -1,0 +1,1 @@
+# El ipynb no tiene los outputs de la celda porque databricks no me dejaba exportarlo por un exceso en memoria
